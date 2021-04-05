@@ -1,3 +1,4 @@
+![Screenshot (259)](https://user-images.githubusercontent.com/70314729/113597514-7094fc80-9659-11eb-83f6-23577a4f49f4.png)
 # streamlit-10
 
 Launch the web app:
